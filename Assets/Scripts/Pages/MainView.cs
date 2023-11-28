@@ -5,7 +5,7 @@ namespace AIExhibition.UIManagement.Base.Pages
     {
         public override void Initialize()
         {
-            throw new System.NotImplementedException();
+            Show();
         }
     }
 }
