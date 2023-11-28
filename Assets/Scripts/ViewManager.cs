@@ -25,6 +25,7 @@ namespace AIExhibition.UIManagement.Base
             if (_startingView != null)
             {
                 Show(_startingView);
+                _currentView = _startingView;
             }
 
         }
